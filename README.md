@@ -2,7 +2,7 @@
 Data Analytic Bootcamp Projects and Homework I had contributed so far
 Bootcamp launched by K.Toy (Kasidis S.)
 
-We learned 10 sprints during 4-6 month program.
+I have learned 10 sprints during 4-6 month program.
 
 + Spreadsheets
 + SQL Database
@@ -14,3 +14,7 @@ We learned 10 sprints during 4-6 month program.
 + Intro to Python
 + Essential Python for Data Analyst
 + Dashboard
+
+
+
+> __Side Notes:__ some projects may be missing due to my main contribution during the time frame was towards thesis
