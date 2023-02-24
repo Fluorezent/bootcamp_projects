@@ -19,3 +19,9 @@ I have learned 10 sprints during 4-6 month program.
 
 
 > __Side Notes:__ some projects may be missing due to my main contribution during the time frame was towards thesis
+
+__To Upload (if time frame was possible)__
+[] Data Transformation Project
+[] Data Visualisation Project
+[] Tableau Dashboard
+[] Final Project
