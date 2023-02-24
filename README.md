@@ -1,6 +1,7 @@
 # DA Bootcamp Projects
 Data Analytic Bootcamp Projects and Homework I had contributed so far
-Bootcamp launched by [Mr. Kasidis S. (admin Toy)](https://www.linkedin.com/in/kasidistoy/)
+Bootcamp launched by [DataRockie](https://datarockie.com/)
+This would not be made possible without [Mr. Kasidis S. (admin Toy)](https://www.linkedin.com/in/kasidistoy/)'s easy-to-digest courses.
 
 I have learned 10 sprints during 4-6 month program.
 
