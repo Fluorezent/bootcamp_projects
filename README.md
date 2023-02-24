@@ -1,4 +1,4 @@
-# bootcamp_projects
+# DA Bootcamp Projects
 Data Analytic Bootcamp Projects and Homework I had contributed so far
 Bootcamp launched by K.Toy (Kasidis S.)
 
