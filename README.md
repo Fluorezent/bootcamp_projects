@@ -29,8 +29,6 @@ I have learned 10 sprints during 4-6 month program.
 - [ ] Final Project
 
 ### Python Exercises
-The following repo contains python exercises obtained from [Kaggle courses](https://github.com/Fluorezent/bootcamp_projects/tree/main/kaggle_exercises).
-
-Some courses, for example, learning data types, will not be included.
+Some other python exercises can be accessed thru my [Kaggle Profile](https://www.kaggle.com/punsitabualert/code).
 
 My Kaggle profile can be accessed [here](https://www.kaggle.com/punsitabualert)
