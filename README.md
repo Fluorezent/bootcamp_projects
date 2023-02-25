@@ -33,4 +33,4 @@ The following repo contains python exercises obtained from [Kaggle courses](http
 
 Some courses, for example, learning data types, will not be included.
 
-My Kaggle profile is [here](https://www.kaggle.com/punsitabualert)
+My Kaggle profile can be accessed [here](https://www.kaggle.com/punsitabualert)
